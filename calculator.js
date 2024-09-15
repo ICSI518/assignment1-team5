@@ -3,6 +3,11 @@ function multiply(a, b) {
   // return a * b;
 
 }
+// Function to subtract two numbers
+function subtraction(a, b) {
+  return a - b;
+}
+
 // addition function
 function add(a, b) {
   // return a + b;
@@ -11,7 +16,6 @@ function add(a, b) {
 function subtraction(a, b) {
   return a - b;
 }
-
 
 // Function to divide two numbers
 function divide(a, b) {
