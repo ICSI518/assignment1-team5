@@ -2,7 +2,7 @@
 function add(a, b) {
   // return a + b;
 }
-
+//Function to subtract two numbers
 function subtraction(a, b) {
   return a - b;
 }
@@ -10,8 +10,6 @@ function multiply(a, b) {
   // return a * b;
 
 }
-
-// Function to add two numbers
 
 
 // Function to divide two numbers
