@@ -1,3 +1,8 @@
+//Function to multiply
+function multiply(a, b) {
+  // return a * b;
+
+}
 // addition function
 function add(a, b) {
   // return a + b;
@@ -5,10 +10,6 @@ function add(a, b) {
 //Function to subtract two numbers
 function subtraction(a, b) {
   return a - b;
-}
-function multiply(a, b) {
-  // return a * b;
-
 }
 
 
