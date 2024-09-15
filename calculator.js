@@ -15,7 +15,7 @@ function multiply(a, b) {
 
 
 // Function to divide two numbers
-function divide(a, b) {
+function division(a, b) {
    if (b === 0) {
      return "Error: Division by zero";
    }
@@ -30,4 +30,4 @@ const b = 5;
 console.log(`Addition: ${a} + ${b} = ${add(a, b)}`);
 console.log(`Subtraction: ${a} - ${b} = ${subtraction(a, b)}`);
 console.log(`Multiplication: ${a} * ${b} = ${multiply(a, b)}`);
-console.log(`Division: ${a} / ${b} = ${divide(a, b)}`);
+console.log(`Division: ${a} / ${b} = ${division(a, b)}`);
