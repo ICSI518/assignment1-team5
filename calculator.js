@@ -10,7 +10,10 @@ function subtraction(a, b) {
 
 // Function to add two numbers
 function add(a, b) {
-  // return a + b;
+  if (typeof a !== 'number' || typeof b !== 'number') {
+    return "Error: Both arguments must be numbers";
+  }
+  return a + b;
 }
 
 // Function to divide two numbers
