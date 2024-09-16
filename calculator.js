@@ -1,20 +1,19 @@
 // Multiply Function
 function multiply(a, b) {
   return b * a;
-
-}
-// Function to subtract two numbers
-function subtraction(a, b) {
-  return a - b;
 }
 
-// addition function
-function add(a, b) {
-  // return a + b;
-}
 //Function to subtract two numbers
 function subtraction(a, b) {
   return a - b;
+}
+
+// Function to add two numbers
+function add(a, b) {
+  if (typeof a !== 'number' || typeof b !== 'number') {
+    return "Error: Both arguments must be numbers";
+  }
+  return a + b;
 }
 
 // Function to divide two numbers
