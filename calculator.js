@@ -1,20 +1,16 @@
-//Function to multiply
+//Function to multiply two numbers
 function multiply(a, b) {
   // return a * b;
-
 }
+
 // Function to subtract two numbers
 function subtraction(a, b) {
   return a - b;
 }
 
-// addition function
+// Function to add two numbers
 function add(a, b) {
   // return a + b;
-}
-//Function to subtract two numbers
-function subtraction(a, b) {
-  return a - b;
 }
 
 // Function to divide two numbers
