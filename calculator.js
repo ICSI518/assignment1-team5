@@ -1,6 +1,6 @@
-//Function to multiply two numbers
+// Multiply Function
 function multiply(a, b) {
-  // return a * b;
+  return b * a;
 }
 
 //Function to subtract two numbers
